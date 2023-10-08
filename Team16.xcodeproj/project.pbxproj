@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		16C579552AD2A82900D02C43 /* malak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C579542AD2A82900D02C43 /* malak.swift */; };
+		5EE724AD2AD2ACAE0055BF75 /* Albanderi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE724AC2AD2ACAE0055BF75 /* Albanderi.swift */; };
 		6E2019392AD29E620063527B /* Team16App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2019382AD29E620063527B /* Team16App.swift */; };
 		6E20193B2AD29E620063527B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E20193A2AD29E620063527B /* ContentView.swift */; };
 		6E20193D2AD29E640063527B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E20193C2AD29E640063527B /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		16C579542AD2A82900D02C43 /* malak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = malak.swift; sourceTree = "<group>"; };
+		5EE724AC2AD2ACAE0055BF75 /* Albanderi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Albanderi.swift; sourceTree = "<group>"; };
 		6E2019352AD29E620063527B /* Team16.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Team16.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E2019382AD29E620063527B /* Team16App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team16App.swift; sourceTree = "<group>"; };
 		6E20193A2AD29E620063527B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				8A7A03B92AD2A25300C51C81 /* Albatol.swift */,
 				B14C56232AD2A7620026326F /* Shaden.swift */,
 				16C579542AD2A82900D02C43 /* malak.swift */,
+				5EE724AC2AD2ACAE0055BF75 /* Albanderi.swift */,
 				6E20193C2AD29E640063527B /* Assets.xcassets */,
 				6E20193E2AD29E640063527B /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EE724AD2AD2ACAE0055BF75 /* Albanderi.swift in Sources */,
 				8A7A03BA2AD2A25300C51C81 /* Albatol.swift in Sources */,
 				6E20193B2AD29E620063527B /* ContentView.swift in Sources */,
 				B14C56242AD2A7620026326F /* Shaden.swift in Sources */,
