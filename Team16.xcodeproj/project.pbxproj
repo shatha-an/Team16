@@ -11,6 +11,7 @@
 		6E20193B2AD29E620063527B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E20193A2AD29E620063527B /* ContentView.swift */; };
 		6E20193D2AD29E640063527B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E20193C2AD29E640063527B /* Assets.xcassets */; };
 		6E2019402AD29E640063527B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E20193F2AD29E640063527B /* Preview Assets.xcassets */; };
+		8A7A03BA2AD2A25300C51C81 /* Albatol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7A03B92AD2A25300C51C81 /* Albatol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6E20193A2AD29E620063527B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6E20193C2AD29E640063527B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E20193F2AD29E640063527B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8A7A03B92AD2A25300C51C81 /* Albatol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Albatol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6E2019382AD29E620063527B /* Team16App.swift */,
 				6E20193A2AD29E620063527B /* ContentView.swift */,
+				8A7A03B92AD2A25300C51C81 /* Albatol.swift */,
 				6E20193C2AD29E640063527B /* Assets.xcassets */,
 				6E20193E2AD29E640063527B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A7A03BA2AD2A25300C51C81 /* Albatol.swift in Sources */,
 				6E20193B2AD29E620063527B /* ContentView.swift in Sources */,
 				6E2019392AD29E620063527B /* Team16App.swift in Sources */,
 			);
